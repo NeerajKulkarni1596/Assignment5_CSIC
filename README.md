@@ -1,5 +1,5 @@
 # Assignment5_CSIC
-
+Anvai patil(ap89263n) Neeraj Kulkarni(nk85105n)
 this application is msde using reac.js.this assignment shows microservicews used. we have fetched the data from api.
 
 to run this program first run command: npm install
